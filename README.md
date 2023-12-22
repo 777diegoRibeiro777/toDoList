@@ -1,4 +1,4 @@
-<h1 align="center"> Portfolio DEV </h1>
+<h1 align="center"> To Do List </h1>
 
 <p align="center">
 Projeto desenvolvido no treinamento programador fullstack (Realizado pelo SENAI), do programa Meu Primeiro Emprego. <br/>
