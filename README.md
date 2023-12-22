@@ -11,7 +11,7 @@ Projeto desenvolvido no treinamento programador fullstack (Realizado pelo SENAI)
 </p>
 
 <p align="center">
-  <a href="https://diegoribeiro.netlify.app/" style="font-weight: bold;" target="_blank">💎 Link para o projeto.</a>
+  <a href="https://777diegoribeiro777.github.io/toDoList/" style="font-weight: bold;" target="_blank">💎 Link para o projeto.</a>
 </p>
 
 ## 🚀 Tecnologias
